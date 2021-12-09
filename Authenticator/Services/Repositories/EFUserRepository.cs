@@ -1,6 +1,5 @@
 ﻿using AuthenticationService.Data;
 using AuthenticationService.Models;
-using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
 
 namespace AuthenticationService.Services.Repositories

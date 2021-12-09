@@ -1,6 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore.Migrations;
-
-namespace AuthenticationService.Migrations
+﻿namespace AuthenticationService.Migrations
 {
     public partial class Simplify : Migration
     {
