@@ -1,4 +1,6 @@
-﻿namespace AuthenticationService.Migrations
+﻿using Microsoft.EntityFrameworkCore.Migrations;
+
+namespace AuthenticationService.Migrations
 {
     public partial class StoreTokens : Migration
     {

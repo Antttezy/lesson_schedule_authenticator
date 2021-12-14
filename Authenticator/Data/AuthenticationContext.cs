@@ -1,4 +1,5 @@
 ﻿using AuthenticationService.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace AuthenticationService.Data
 {
